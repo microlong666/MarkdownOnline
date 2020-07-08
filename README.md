@@ -1,4 +1,4 @@
-GitHu-Pages 内容未完善，请[原作者处](https:/markdown.lovejade.cn)查看，或 clone 到本地使用 yarn start 预览。
+GitHub-Pages 内容未完善，请[原作者处](https:/markdown.lovejade.cn)查看，或 clone 到本地使用 yarn start 预览。
 
 <p align="center"><a href="https://nicelinks.site/tags/Markdown/?utm_source=github.com" target="_blank"><img width="100"src="https://cdn.jsdelivr.net/gh/nicejade/markdown-online-editor/src/assets/images/logo.png"></a></p>
 
