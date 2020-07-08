@@ -3,16 +3,14 @@
 <template>
   <section class="header-wrapper">
     <h1 class="header-area">
-      <a
-        href="https://microloong.xyz/MarkdownOnline"
+      <a href="https://microloong.xyz/MarkdownOnline"
         class="header-link"
       >
         <img class="mark-markdown" src="@assets/images/markdown.png" alt="在线 Markdown 编辑器" />
         <strong v-if="!isMobile" class="header-text">{{ titleText }}</strong>
       </a>
       <div class="button-group">
-        <a
-          href="https://blog.microloong.xyz/about/"
+        <a href="https://blog.microloong.xyz/about/"
           class="header-link"
         >
           <span class="hint--bottom" aria-label="关于作者">
@@ -24,8 +22,7 @@
             <icon class="header-icon" name="document" />
           </span>
         </router-link>
-        <a
-          href="https://blog.microloong.xyz/"
+        <a href="https://blog.microloong.xyz/"
           class="header-link"
           target="_blank"
           rel="noopener"
@@ -34,8 +31,7 @@
             <icon class="header-icon" name="recommend" />
           </span>
         </a>
-        <a
-          href="https://github.com/microlong666"
+        <a href="https://github.com/microlong666"
           class="header-link"
         >
           <span class="hint--bottom" aria-label="Github">
